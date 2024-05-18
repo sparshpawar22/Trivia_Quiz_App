@@ -1,6 +1,6 @@
 # trivia_quiz_app
 
-A new Flutter project.
+this is a quiz app made using open trivia db api on flutter
 
 ## Getting Started
 
