@@ -1,6 +1,6 @@
 # trivia_quiz_app
 
-this is a quiz app made using open trivia db api on flutter
+this is a quiz app made using open trivia db api on flutter. it contains timer functionality and fetch data usinng api
 
 ## Getting Started
 
